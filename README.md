@@ -1,4 +1,4 @@
-<h1> Hi, hi! I'm Kamsi! <img src="./Assets/7.gif" width="70"> </h1>
+<h2> Hi, I'm Kamsi! <img src="./Assets/12.gif" width="40"> </h2>
 <details>
 <summary>In case you missed it</summary>
 
@@ -16,14 +16,17 @@
 ```
 </details>
     <p><em>
-    Aspiring Software Engineer  <img src="./Assets/6.gif" width="30"> </br>
-    Ex Google SWE Intern <img src="./Assets/11.gif" width="30"> </br>
-    Computer Science major, Mathematics minor at Howard University <img src="./Assets/9.gif" width="30">
+    🔭 Aspiring Software Engineer 
+    </br>
+    🌱 Ex Google SWE Intern 
+    </br>
+    ❤️ Computer Science major, Mathematics minor at Howard University
+    </br>
     </em></p>
 
-<img align='right' src="./Assets/12.gif" width="250">
+<img align='right' src="./Assets/13.gif" width="350">
 
-### A bit about me...<img src="./Assets/4.gif" width="60">
+### A bit about me...<img src="./Assets/4.gif" width="45">
 
 ```javascript
 const kamsi = {
@@ -36,11 +39,11 @@ const kamsi = {
 }
 ```
 
-### Here's what I'm listening to <img src="./Assets/2.gif" width="50">
+### Here's what I'm listening to <img src="./Assets/2.gif" width="40">
 <a>[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=bloodybastards&cover_image=true&theme=novatorem&show_offline=true&background_color=080808&interchange=false&profanity=true&hide_remaster=true&bar_color=c21e76&bar_color_cover=true&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=bloodybastards&redirect=true)</a>
 
 
-<img src="./Assets/10.gif" width="60"> <em><b>Come say hi!</em>
+<em><b>Come say hi!</em>
 
 <a href="https://www.linkedin.com/in/doreenonyewuchiohiri/">
   <img height="50" alt="LinkedIn" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
