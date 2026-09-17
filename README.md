@@ -1,4 +1,4 @@
-<h2> Hi, hi! I'm Kamsi! <img src="./Assets/7.gif" width="70"> </h2>
+<h1> Hi, hi! I'm Kamsi! <img src="./Assets/7.gif" width="70"> </h1>
 <details>
 <summary>In case you missed it</summary>
 
@@ -15,13 +15,13 @@
                                                             
 ```
 </details>
-<p><em>
-  Aspiring Software Engineer  <img src="./Assets/6.gif" width="30"> </br>
-  Ex Google SWE Intern <img src="./Assets/3.gif" width="20"> </br>
-  Computer Science major, Mathematics minor at Howard University <img src="./Assets/12.gif" width="20">
-</em></p>
+    <p><em>
+    Aspiring Software Engineer  <img src="./Assets/6.gif" width="30"> </br>
+    Ex Google SWE Intern <img src="./Assets/11.gif" width="30"> </br>
+    Computer Science major, Mathematics minor at Howard University <img src="./Assets/9.gif" width="30">
+    </em></p>
 
-<img align='right' src="./Assets/13.gif" width="320">
+<img align='right' src="./Assets/12.gif" width="250">
 
 ### A bit about me...<img src="./Assets/4.gif" width="60">
 
