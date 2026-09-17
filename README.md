@@ -23,7 +23,7 @@
     <img src="./Assets/11.gif" width="30">
   </br>
  Computer Science major, Mathematics minor at Howard University
-    <img src="./Assets/8.gif" width="30">
+    <img src="./Assets/7.gif" width="30">
 </em></p>
 
 <img align='right' src="./Assets/5.gif" width="320">
@@ -41,6 +41,6 @@ const kamsi = {
 }
 ```
 
-<img src="./Assets/5.gif" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
+<img src="./Assets/10.gif" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
 
 [Website](http://ddroid.dev/), [Reddit](https://www.reddit.com/user/Ahmad-Munir), [Discord](https://discord.com/users/1085441777886040064), [LinkedIn](https://www.linkedin.com/in/ddroid/), [Twitter](https://x.com/ddroid_dev), <a rel="me" href="https://fosstodon.org/@ddroid">Mastodon</a>, [Bluesky](https://bsky.app/profile/devdroid.bsky.social)
