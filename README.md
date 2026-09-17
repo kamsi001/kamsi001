@@ -1,4 +1,4 @@
-<h2> Hi, hi! I'm Kamsi! <img src="./Assets/2.gif" width="70"> </h2>
+<h2> Hi, hi! I'm Kamsi! <img src="./Assets/7.gif" width="70"> </h2>
 <details>
 <summary>In case you missed it</summary>
 
@@ -16,14 +16,9 @@
 ```
 </details>
 <p><em>
-  Aspiring Software Engineer 
-     <img src="./Assets/3.gif" width="30">
-  </br>
-  Ex Google SWE Intern
-    <img src="./Assets/11.gif" width="30">
-  </br>
- Computer Science major, Mathematics minor at Howard University
-    <img src="./Assets/7.gif" width="30">
+  Aspiring Software Engineer  <img src="./Assets/6.gif" width="30"> </br>
+  Ex Google SWE Intern <img src="./Assets/3.gif" width="20"> </br>
+  Computer Science major, Mathematics minor at Howard University <img src="./Assets/12.gif" width="20">
 </em></p>
 
 <img align='right' src="./Assets/5.gif" width="320">
@@ -35,12 +30,26 @@ const kamsi = {
   pronouns: "she" | "her",
   code: [Python, TypeScript, C, C++, Kotlin, JavaScript, SQL],
   tools: [React, Node.js, Docker, Apache Spark],
-  favourite_color: pink,
-  my_friends_call_me: [Kamsi, K, Kam, Kamsi Wamsi, Queen Supreme, etc],
-  fun_fact: "I'm Nigerian!"
+  favourite_color: 'pink',
+  my_friends_call_me: [Kamsi, K, Kam],
+  fun_fact: "I also go by Doreen!"
 }
 ```
 
-<img src="./Assets/10.gif" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
+### Here's what I'm listening to <img src="./Assets/2.gif" width="50">
+<a>[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=bloodybastards&cover_image=true&theme=novatorem&show_offline=true&background_color=080808&interchange=false&profanity=true&hide_remaster=true&bar_color=c21e76&bar_color_cover=true&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=bloodybastards&redirect=true)</a>
 
-[Website](http://ddroid.dev/), [Reddit](https://www.reddit.com/user/Ahmad-Munir), [Discord](https://discord.com/users/1085441777886040064), [LinkedIn](https://www.linkedin.com/in/ddroid/), [Twitter](https://x.com/ddroid_dev), <a rel="me" href="https://fosstodon.org/@ddroid">Mastodon</a>, [Bluesky](https://bsky.app/profile/devdroid.bsky.social)
+
+<img src="./Assets/10.gif" width="60"> <em><b>Come say hi!</em>
+
+<a href="https://www.linkedin.com/in/doreenonyewuchiohiri/">
+  <img height="50" alt="LinkedIn" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://www.instagram.com/dorrrreeeen/">
+  <img height="50" alt="Instagram" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+<a href="https://www.reddit.com/user/Friendly-Party-8102/">
+  <img height="50" alt="Reddit" src="https://github.com/user-attachments/assets/fc681774-5db8-4a86-a3ca-de2c583472c5" />
+</a>
+
+
