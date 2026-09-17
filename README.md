@@ -21,7 +21,7 @@
   Computer Science major, Mathematics minor at Howard University <img src="./Assets/12.gif" width="20">
 </em></p>
 
-<img align='right' src="./Assets/5.gif" width="320">
+<img align='right' src="./Assets/13.gif" width="320">
 
 ### A bit about me...<img src="./Assets/4.gif" width="60">
 
